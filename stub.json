@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"Create a Flutter screen for creating a new user based on the provided ModifyUserScreen which is for editing an existing user. Ensure to use the same style and reuse as much code as possible.","md5":"31fea9fd77aa46dde64c182fffd90820"}]}
